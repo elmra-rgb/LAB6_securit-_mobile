@@ -41,9 +41,6 @@ Ce laboratoire avait pour objectif d'analyser statiquement une application Andro
 ![Création du dossier de travail](screenshots/1.1.png)
 *Figure 1 : Création du dossier de travail et copie de l'APK*
 
-![Informations générales](screenshots/6.png)
-*Figure 2 : Informations générales de l'application*
-
 | Information | Valeur |
 |-------------|--------|
 | **App Name** | AndroGoat - Insecure App (Kotlin) |
@@ -56,9 +53,6 @@ Ce laboratoire avait pour objectif d'analyser statiquement une application Andro
 ---
 
 ## 4. LANCEMENT DE MobSF
-
-![Interface d'accueil MobSF](screenshots/3.png)
-*Figure 3 : Interface d'accueil de MobSF v4.4.5*
 
 ![Vérification Docker](screenshots/2.png)
 *Figure 4 : Vérification et démarrage du conteneur MobSF*
