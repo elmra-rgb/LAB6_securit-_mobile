@@ -161,7 +161,10 @@ Ce laboratoire avait pour objectif d'analyser statiquement une application Andro
 - `sha256/mfIztT5enoR1FuXLgYQqNVeOzvmf9c2bVBpiOiYQc0=`
 
 ![URLs and Emails](screenshots/19.png)
-*Figure 16 : URLs et emails détectés*
+*Figure 16 : URLs emails détectés*
+
+![Bouton PDF Report](screenshots/20.png)
+*Figure 23 : emails détectés*
 
 **URLs identifiées :**
 - `http://demo.testfire.net`
@@ -232,9 +235,6 @@ L'application AndroGoat contient de multiples vulnérabilités de sécurité vol
 ---
 
 ## 13. EXPORTATION DU RAPPORT
-
-![Bouton PDF Report](screenshots/20.png)
-*Figure 23 : Bouton PDF Report dans l'interface MobSF*
 
 ![Rapport PDF généré](screenshots/25.png)
 *Figure 24 : Rapport PDF généré par MobSF*
